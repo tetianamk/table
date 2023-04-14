@@ -46,7 +46,7 @@
   font-weight: 700;
   padding-bottom: 10px;
 }
-.first-col td:nth-child(1) {
+.first-col th:nth-child(1) {
   text-align: left;
 }
 
