@@ -22,19 +22,19 @@
 
 .plan-first {
   background-color: #94a2c8;
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .plan-second {
   background-color: #4d65a4;
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .plan-third {
   background-color: #2e3c62;
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .plan-fourth {
   background-color: #1e2841;
-  padding-top: 10px;
+  margin-top: 10px;
 }
 .radius {
   border-top-right-radius: 8px 8px;
